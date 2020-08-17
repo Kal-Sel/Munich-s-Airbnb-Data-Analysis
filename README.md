@@ -1,7 +1,5 @@
 # Munich's Airbnb Data Analysis
-_
 ## Coursera's Capstone Project
-_
 ## *IBM Data Science Professional Certificate*
 
 
